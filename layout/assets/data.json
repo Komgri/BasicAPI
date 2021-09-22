@@ -1,0 +1,29 @@
+[
+    {
+        "title":"หลักสูตร",
+        "subtitle":"ปริญญาโท ปริญญาเอก สัมฤทธิบัตร",
+        "image_url":"https://image.freepik.com/free-vector/colleagues-working-together-project_74855-6308.jpg",
+        "detail":"หลักสูตรปริญญาโท ปริญญาเอก มหาวิทยาลัยนเรศวร บัณฑิตวิทยาลัย มีหน้าที่ในการกำกับและดูแลคุณภาพของหลักสูตรในระดับบัณฑิตศึกษาให้เป็นไปตามเกณฑ์คุณภาพที่ สกอ. และมหาวิทยาลัยกำหนด \n\nโครงการที่เปิดรับสมัครในระดับบัณฑิตศึกษาทีทั้งหมด 4 โครงการ ได้แก่ โครงการที่เปิดรับสมัคร โครงการรับสมัคร ระดับบัณฑิตศึกษา (ปริญญาเอก) โครงการรับสมัคร ระดับบัณฑิตศึกษา (ประกาศนียบัตรบัณฑิตชั้นสูง) โครงการรับสมัคร ระดับบัณฑิตศึกษา (ปริญญาโท) โครงการครู-อาจารย์ประจำการ"
+    },
+    
+    {
+        "title":"คณาจารย์",
+        "subtitle":"ระบบฐานข้อมูลผลงานทางวิชาการ",
+        "image_url":"https://images.pexels.com/photos/4861362/pexels-photo-4861362.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. \n\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    
+    {
+        "title":"นิสิตบัณฑิตศึกษา",
+        "subtitle":"iThesis แบบฟอร์มออนไลน์ ทุนการศึกษา",
+        "image_url":"https://image.freepik.com/free-vector/freelancer-working-laptop-her-house_1150-35054.jpg",
+        "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. \n\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+
+    {
+        "title":"สำหรับเจ้าหน้าที่",
+        "subtitle":"แบบฟอร์มออนไลน์",
+        "image_url":"https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. \n\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+]
